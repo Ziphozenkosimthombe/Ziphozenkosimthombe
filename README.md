@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ziphozenkosi ncayiyana</h1>
-<div align="centetr"> <img src="https://raw.githubusercontent.com/ziphozenkosimthombe/ziphozenkosimthombe/main/image.png" width="400px" height="400px"> </div>
+<div align="centetr"> <img src="https://raw.githubusercontent.com/ziphozenkosimthombe/ziphozenkosimthombe/main/image.png" background="black"> </div>
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
