@@ -34,6 +34,3 @@
 
 ## Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ziphozenkosimthombe&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-## My GitHub Contributions
-![Sanke animation](https://github.com/ziphozenkosimthombe/ziphozenkosimthombe/blob/outpu/github-contribution-grid-snake.svg)
