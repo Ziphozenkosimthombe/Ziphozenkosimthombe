@@ -1,4 +1,4 @@
-<img src="Your paragraph text.png" width="100%" height="30%">
+<img src="Screenshot.png" width="100%" height="30%">
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
