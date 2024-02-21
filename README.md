@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ziphozenkosi ncayiyana</h1>
+<img src="https://i.imgur.com/536JNd9.jpg" width="100%">
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
