@@ -19,17 +19,46 @@
 <h1 align="center">Projects</h1>
 
 
-- 🔭 I’m currently working on **Fullstack web applications**
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">CockTailAPI</h3>
+        <br />
+        <a target="_blank" href="https://cockzet.netlify.app/">
+            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Ziphozenkosimthombe/CockTailLive.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://cockzet.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, CSS, HTML</strong> - Platform that going to generate all the cockTails when you put the cockTails name and press enter , going to show you the diffent cockTails</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Pokemon</h3>
+        <br />
+      <a target="_blank" href="https://generate-pokeman.netlify.app/">
+            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Ziphozenkosimthombe/Poke_pet_mages.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://generate-pokeman.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascrpt, CSS and HTML</strong> - This pltform allows you to look at  150 Pokemon with image, name, id and type
+        </p>
 
-- 🌱 I’m currently learning **fullstack web applicatins**
-
-- 👨‍💻 All of my projects are available at [https://zipho.netlify.app](https://zipho.netlify.app)
-
-- 💬 Ask me about **web application, API's**
-
-- 📫 How to reach me **ziphoncayiyana@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
