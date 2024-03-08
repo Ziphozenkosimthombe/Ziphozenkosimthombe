@@ -25,7 +25,7 @@
       <h3 align="center">CockTailAPI</h3>
         <br />
         <a target="_blank" href="https://cockzet.netlify.app/">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="Project_1.png" width="100%" alt="CockTail App"/>
         </a>
         <br />
         <p align="center">
