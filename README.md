@@ -79,6 +79,15 @@
 </p>
 
 
+
+---
+
+
+
+<h1 align="center">Connect</h1>
+
+
+
 <p align="center">
   <a href="https://zipho.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
