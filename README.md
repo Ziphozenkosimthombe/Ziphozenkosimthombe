@@ -79,11 +79,17 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziphozenkosimthombe&show_icons=true&locale=en&layout=compact" alt="ziphozenkosimthombe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziphozenkosimthombe&show_icons=true&locale=en" alt="ziphozenkosimthombe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziphozenkosimthombe&" alt="ziphozenkosimthombe" /></p>
-
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ziphozenkosimthombe&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://zipho.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ziphozenkosi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/Ziphozenkosi478" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="# resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
