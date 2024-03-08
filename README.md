@@ -43,7 +43,7 @@
       <h3 align="center">Pokemon</h3>
         <br />
       <a target="_blank" href="https://generate-pokeman.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="project_2.png" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
