@@ -59,6 +59,7 @@
         <p><strong>Javascrpt, CSS and HTML</strong> - This pltform allows you to look at  150 Pokemon with image, name, id and type
         </p>
       </td>
+      <br>
       <td width="50%" valign="top">
       <h3 align="center">CockTailAPI</h3>
         <br />
