@@ -39,6 +39,7 @@
       </p>
         <p><strong>Javascript, CSS, HTML</strong> - Platform that going to generate all the cockTails when you put the cockTails name and press enter , going to show you the diffent cockTails</p>
     </td>
+    <br>
     <td width="50%" valign="top">
       <h3 align="center">Pokemon</h3>
         <br />
