@@ -57,6 +57,8 @@
       </p>
         <p><strong>Javascrpt, CSS and HTML</strong> - This pltform allows you to look at  150 Pokemon with image, name, id and type
         </p>
+      </td>
+
 
 </table>
 
