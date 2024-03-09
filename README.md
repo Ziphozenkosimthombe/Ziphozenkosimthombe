@@ -59,8 +59,26 @@
         <p><strong>Javascrpt, CSS and HTML</strong> - This pltform allows you to look at  150 Pokemon with image, name, id and type
         </p>
       </td>
+      <td width="50%" valign="top">
+      <h3 align="center">CockTailAPI</h3>
+        <br />
+        <a target="_blank" href="https://cockzet.netlify.app/">
+            <img src="Project_1.png" width="100%" alt="CockTail App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Ziphozenkosimthombe/CockTailLive.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://cockzet.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, CSS, HTML</strong> - Platform that going to generate all the cockTails when you put the cockTails name and press enter , going to show you the diffent cockTails</p>
+    </td>
 
-
+  </tr>
 </table>
 
 <h1 align="center">Technologies</h1>
