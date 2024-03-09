@@ -76,6 +76,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=DIGITALOCEAN&color=cbb148&style=plastic&logo=digitalocean"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NGINX&color=cbb148&style=plastic&logo=nginx"/>
 </p>
 
 
