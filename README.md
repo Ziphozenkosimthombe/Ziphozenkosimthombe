@@ -20,12 +20,13 @@
 
 
 <table bordercolor="#66b2b2">
+  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">CockTailAPI</h3>
         <br />
         <a target="_blank" href="https://cockzet.netlify.app/">
-            <img src="Project_1.png" width="100%" alt="CockTail App"/>
+            <img src="Project_1.png" width="100%" alt="Cocktail App"/>
         </a>
         <br />
         <p align="center">
@@ -33,17 +34,16 @@
   <a href="https://github.com/Ziphozenkosimthombe/CockTailLive.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://cockzet.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="\https://cockzet.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, CSS, HTML</strong> - Platform that going to generate all the cockTails when you put the cockTails name and press enter , going to show you the diffent cockTails</p>
     </td>
-    <br>
     <td width="50%" valign="top">
       <h3 align="center">Pokemon</h3>
         <br />
-      <a target="_blank" href="https://generate-pokeman.netlify.app/">
+      <a target="_blank" href="https://generate-pokeman.netlify.app">
             <img src="project_2.png" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
@@ -52,14 +52,50 @@
   <a href="https://github.com/Ziphozenkosimthombe/Poke_pet_mages.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://generate-pokeman.netlify.app/" target="_blank">
+  <a href="https://generate-pokeman.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascrpt, CSS and HTML</strong> - This pltform allows you to look at  150 Pokemon with image, name, id and type
-        </p>
-      </td>
-
+        <p><strong>Javascrpt, CSS and HTML</strong> - This pltform allows you to look at  150 Pokemon with image, name, id and type</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">taxi-industry.me</h3>
+      <br />
+        <a target="_blank" href="http://taxi-industry.me">
+          <img src="taxis_1.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Ziphozenkosimthombe/Taxi_Industry.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://taxi-industry.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Node.Js, Express.JS, Bootstrap, EJS, Javascript</strong> - Taxi Industry Social media web application, will help the rank manager to be able to get the information of the driver easy and also be able to arrange the car according it the destination that each driver going to deliver the passanger. It will also help the driver to view which destination the rank mananger place him/her to deliver and the drivers  will able to post on the application and comment to each others post</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">zipho.netlify.app</h3>
+        <br />
+        <a target="_blank" href="https://zipho.netlify.app">
+          <img src="portfolio_1.png" width="100%" alt="Portfolio"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Ziphozenkosimthombe/Portfolio_project.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://zipho.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio website when you will see all of my project and get in touch / contact me</p>
+    </td>
   </tr>
 </table>
 
