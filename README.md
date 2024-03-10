@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Node.Js, Express.JS, Bootstrap, EJS, Javascript</strong> - Taxi Industry Social media web application, will help the rank manager to be able to get the information of the driver easy and also be able to arrange the car according it the destination that each driver going to deliver the passanger. It will also help the driver to view which destination the rank mananger place him/her to deliver and the drivers  will able to post on the application and comment to each others post</p>
+        <p><strong>Node.Js, Express.JS, Bootstrap, EJS, Javascript</strong> - Taxi Industry Social media web application, will help the rank manager to be able to get the information of the driver easy and also be able to arrange each taxi according to it's destination that each driver is going to deliver the passangers. It will also help the drivers to view which destination the rank mananger place him/her to deliver and the drivers  will able to post on this web application and add comments to each others post</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">zipho.netlify.app</h3>
