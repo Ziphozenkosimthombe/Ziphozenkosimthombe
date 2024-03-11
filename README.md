@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascrpt, CSS and HTML</strong> - This pltform allows you to look at  150 Pokemon with image, name, id and type</p>
+        <p><strong>Javascrpt, CSS and HTML</strong> - This platform allows you to look at  150 Pokemon with image, name, id and type</p>
     </td>
   </tr>
   
