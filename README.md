@@ -15,7 +15,7 @@
 </p>
 
 
-<h3 align="center">A passionate Software Engineer from South Africa</h3>
+<p align="center">currently a software engineer student at ALX learning full-stack but i specialized in backend engineer</p>
 <h1 align="center">Projects</h1>
 
 
