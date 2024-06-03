@@ -15,7 +15,7 @@
 </p>
 
 
-<p align="center">currently a software engineer student at ALX learning full-stack but i specialized in backend engineer</p>
+<p align="center">currently a software engineer student at ALX learning full-stack but i specialized in backend engineer..</p>
 <h1 align="center">Projects</h1>
 
 
