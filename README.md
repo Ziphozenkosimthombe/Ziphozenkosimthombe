@@ -26,7 +26,7 @@
       <h3 align="center">CockTailAPI</h3>
         <br />
         <a target="_blank" href="https://cockzet.netlify.app/">
-          <img scr="portfolio_1.png" width="100%" alt="Cocktail App"/>
+          <img src="portfolio_1.png" width="100%" alt="Cocktail App"/>
         </a>
         <br />
         <p align="center">
