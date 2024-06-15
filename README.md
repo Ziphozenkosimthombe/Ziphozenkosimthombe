@@ -26,8 +26,7 @@
       <h3 align="center">CockTailAPI</h3>
         <br />
         <a target="_blank" href="https://cockzet.netlify.app/">
-          [Screen recording 2024-05-30 6.09.45 PM.webm](https://github.com/Ziphozenkosimthombe/SellSpot/assets/123859903/fc6054c8-a43a-4ac8-826b-f2e41cd4b5b1)
-
+          <img href="https://vimeo.com/952085789?share=copy" width="100%" alt="Cocktail App"/>
         </a>
         <br />
         <p align="center">
